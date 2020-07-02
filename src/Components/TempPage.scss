@@ -1,0 +1,29 @@
+.todaytomorrow  button{
+    border: none;
+    background-color: white;
+    color: blue;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+
+.todaytomorrow button:hover {background: #eee;}
+
+
+  .calendar {
+     margin-left:  auto;
+     margin-right:  auto;
+  }
+
+  
+
+.largebutton {
+    margin-left:  auto;
+    margin-right:  auto;
+    display: block;
+    width: 300 px;
+    height: 30px;
+    background-color: lightblue;
+}
+

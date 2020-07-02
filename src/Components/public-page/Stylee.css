@@ -1,0 +1,89 @@
+.t1{
+  text-align: center;
+}
+.email,.psw{
+  left:15%;
+}
+
+
+
+.container {
+    
+  right: 0;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color:none;
+  opacity: 1;
+}
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+/* Add styles to the form container */
+.container1 {
+  
+  margin-left: 100px;
+  margin: 100px;
+  height: 500px;
+  width:150px;
+  display:inline-block;
+ /* max-width: 300px;*/
+  padding: 16px;
+  background-color:none;
+  background-size: 50% 50%;
+  position: relative;
+  /*border: 3px solid black;*/
+  left: 100px;
+  opacity: 1;
+}
+
+/* Full-width input fields */
+  input[type=text], input[type=password] ,input[type=number], input[type=time]{
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #dddada;
+}
+
+input[type=email]:focus,input[type=number]:focus,input[type=time]:focus {
+  background-color: lightblue;
+  outline: none;
+}
+
+/* Set a style for the submit button */
+
+.btn55{
+  background-color: blue;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  margin-left:45%;
+  opacity: 0.9;
+}
+
+.btn:hover,.btn55:hover {
+  opacity: 1;
+}
+h5{
+ margin-left:30%; 
+}
+.linking{
+  color:rgb(10, 86, 185);
+
+}
+.linking:hover {
+  color:blue
+}
+
+.nav-pills{
+    height: 505;
+}
