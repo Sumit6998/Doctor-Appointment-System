@@ -67,3 +67,70 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 "# Doctor-Appointment-System" 
+
+
+Login Page
+![Image of ss1](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(1).png?raw=true)
+
+Sign Up for Doctor
+
+![Image of ss2](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(2).png?raw=true)
+
+![Image of ss3](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(3).png?raw=true)
+
+![Image of ss4](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(4).png?raw=true)
+
+![Image of ss5](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(5).png?raw=true)
+
+Sign up for Patient
+
+![Image of ss6](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(6).png?raw=true)
+
+![Image of ss7](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(7).png?raw=true)
+
+Patient Login
+
+![Image of ss8](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(8).png?raw=true)
+
+Select specific clinic to book an Appointment
+
+![Image of ss9](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(9).png?raw=true)
+
+Select a Date 
+
+![Image of ss10](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(10).png?raw=true)
+
+Book free slot 
+
+![Image of ss11](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(11).png?raw=true)
+
+Confirm Booking
+
+![Image of ss12](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(12).png?raw=true)
+
+![Image of ss13](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(13).png?raw=true)
+
+Doctor login / can see the list of appointments
+
+![Image of ss14](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(14).png?raw=true)
+
+Doctor can attach prescription file and give description to the patient
+
+![Image of ss15](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(15).png?raw=true)
+
+Patient can see the description and download the prescription file
+
+![Image of ss16](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(16).png?raw=true)
+
+Patients can edit their profile.
+
+![Image of ss17](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(17).png?raw=true)
+
+Doctors can edit their profile.
+
+![Image of ss19](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(19).png?raw=true)
+
+Doctor can search the patient by his/her blood group
+
+![Image of ss18](https://github.com/Sumit6998/Doctor-Appointment-System/blob/master/Screenshots/Screenshot%20(18).png?raw=true)
+
